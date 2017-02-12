@@ -1,0 +1,12 @@
+version: '2'
+services:
+  api-tests:
+    image: app_api
+    command: npm run test
+    volumes:
+      - "./api/src:/app/src"
+  web-tests:
+    image: app_web
+    command: npm run test
+    volumes:
+      - "./web/src:/app/src"

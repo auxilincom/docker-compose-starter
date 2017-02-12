@@ -1,0 +1,24 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Frontend of the site",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "development": "NODE_ENV=development nodemon src/server.js",
+    "build": "echo 'webpack build goes here'",
+    "test": "echo 'Write some tests'"
+  },
+  "dependencies": {
+    "app-module-path": "1.1.0",
+    "koa": "1.2.0",
+    "koa-conditional-get": "1.0.3",
+    "koa-etag": "2.1.1",
+    "koa-handlebars": "0.5.7",
+    "koa-router": "5.4.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "1.9.2"
+  }
+}
