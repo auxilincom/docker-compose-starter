@@ -1,8 +1,9 @@
 ## Run a project with a single command
 
-This repository is part of the [blog post](https://), which have some tips about automation of any project start and testing using docker-compose.  
+This repository is part of the [blog post](https://), which have some tips about automation of any project start and testing using [docker-compose](https://docs.docker.com/compose/).  
 
 Repository consist 4 independent services:
+
 1. Landing - a landing site
 2. Web - a simple frontend that serves client side assets for React application and do some server side rendering.
 3. Api - a restful api.
@@ -17,6 +18,7 @@ To test application run `./bin/run-tests.sh`.
 ### Separate Dockerfile for development
 
 Dockerfile.dev used to run every project on local environment. There are two reasons for using separate dockerfile for local environments:
+
 1. To run application using Nodemon, which automatically restart application on code change. (same can be achieved by overriding `command` in docker-compose.yml)
 2. Production Docker files has `npm run build && npm prune --production`. That needed to keep your Docker images smaller, by removing devDependencies after `build` step has been completed. In this step you would typically use Webpack, Gulp or any other bundlers / task runners.
 
