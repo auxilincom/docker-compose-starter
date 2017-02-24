@@ -1,6 +1,6 @@
 ## Run a project with a single command
 
-This repository is part of the [blog post](https://), which have some tips about automation of any project start and testing using [docker-compose](https://docs.docker.com/compose/).  
+This repository is part of the [blog post](https://blog.maqpie.com/2017/02/22/fully-automated-development-environment-with-docker-compose/), which have some tips about automation of any project start and testing using [docker-compose](https://docs.docker.com/compose/).  
 
 Repository consist 4 independent services:
 
