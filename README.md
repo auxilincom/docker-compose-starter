@@ -54,11 +54,11 @@ If image size is not an issue - I would recommend to keep same Dockerfile for bo
 ## Change Log
 
 This project adheres to [Semantic Versioning](http://semver.org/).
-Every release is documented on the Github [Releases](https://github.com/paralect/ship/releases) page.
+Every release is documented on the Github [Releases](https://github.com/paralect/docker-compose-starter/releases) page.
 
 ## License
 
-Ship is released under the [MIT License](LICENSE).
+Docker-compose Starter is released under the [MIT License](LICENSE).
 
 ## Contributing
 
