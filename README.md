@@ -46,10 +46,6 @@ Dockerfile.dev used to run every project on local environment. There are two rea
 
 If image size is not an issue - I would recommend to keep same Dockerfile for both development and production environments. You might also want to look into [this](https://github.com/paralect/docker-compose-starter/issues/3) discussion
 
-## Demo
-
-[Ship](https://github.com/paralect/ship) using same approach, you might want to check it out for comlete demo.
-
 ## Change Log
 
 This project adheres to [Semantic Versioning](http://semver.org/).
@@ -69,7 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/681396?v=4" width="100px;"/><br /><sub><b>Andrew Orsich</b></sub>](http://paralect.com)<br />[💬](#question-anorsich "Answering Questions") [📝](#blog-anorsich "Blogposts") [💻](https://github.com/paralect/ship/commits?author=anorsich "Code") [🤔](#ideas-anorsich "Ideas, Planning, & Feedback") |
+| [<img src="https://avatars3.githubusercontent.com/u/681396?v=4" width="100px;"/><br /><sub><b>Andrew Orsich</b></sub>](http://paralect.com)<br />[💬](#question-anorsich "Answering Questions") [📝](#blog-anorsich "Blogposts") [💻](https://github.com/auxilincom/docker-compose-starter/commits?author=anorsich "Code") [🤔](#ideas-anorsich "Ideas, Planning, & Feedback") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
