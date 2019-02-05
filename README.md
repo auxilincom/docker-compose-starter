@@ -1,5 +1,7 @@
 # Docker-compose Starter
 
+[![Auxilin.com — Production ready Node, React starter kit for building products at a warp speed](https://raw.githubusercontent.com/auxilincom/component-template/master/assets/cover-black.png)](https://github.com/auxilincom/auxilin)
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -8,6 +10,7 @@
 [![Star on GitHub](https://img.shields.io/github/stars/auxilincom/docker-compose-starter.svg?style=social&label=Stars)](https://github.com/auxilincom/docker-compose-starter/stargazers)
 [![Follow](https://img.shields.io/twitter/follow/auxilincom.svg?style=social&label=Follow)](https://twitter.com/auxilin)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/auxilincom/docker-compose-starter.svg?style=social)](https://twitter.com/intent/tweet?text=I%20run%20my%20development%20environment%20with%20a%20simple%20command%20using%20docker-compose%20%F0%9F%9A%80.%20Check%20it%20out:%20https://github.com/auxilincom/docker-compose-starter)
+[![@auxilin](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-t.me/auxilin-blue.svg)](https://t.me/auxilin)
 
 Run your development environment with a single command using docker-compose 🚀.
 This repository was boarn with aim to share how simple development environment could be with [docker-compose](https://docs.docker.com/compose/). If you ever had to perform 100 steps to run a new project you will like this a lot. You could read more on the problem in [this blog post](https://blog.maqpie.com/2017/02/22/fully-automated-development-environment-with-docker-compose/).

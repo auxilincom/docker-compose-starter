@@ -1,10 +1,10 @@
 {
-  "name": "stack-component",
-  "description": "Stack is a set of components which help ship better products faster 🚀",
-  "author": "Paralect",
+  "name": "docker-compose-starter",
+  "description": "Auxilin is an open-source Node.JS product launch kit that saves a lot of your time 👻",
+  "author": "Auxilin",
   "license": "MIT",
   "devDependencies": {
-    "all-contributors-cli": "^4.10.0"
+    "all-contributors-cli": "5.11.0"
   },
   "scripts": {
     "add-contributor": "all-contributors add",
